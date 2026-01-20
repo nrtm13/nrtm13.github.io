@@ -1,1 +1,1 @@
-help
+blog: https://nrtm-dev.de
