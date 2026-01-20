@@ -1,0 +1,9 @@
+---
+title: "Hello World"
+author: "Nils Rottmann"
+date: "2026-01-20"
+categories: [code, beginner]
+image: "coding.png"
+---
+
+This is my first post.
